@@ -1,4 +1,4 @@
-
+![LOGO](https://github.com/Pratik476/Pratik/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Pratik Dhumal</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
