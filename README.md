@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on creating real-world full-stack projects to strengthen my resume 
 - 🌱 I’m currently learning **react,java,springboot**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about Core Java, OOPs, Spring Boot, REST APIs
 
 - 📫 How to reach me **pratikdhumal84@gmail.com**
 
