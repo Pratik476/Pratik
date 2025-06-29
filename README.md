@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pratik Dhumal</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik476&label=Profile%20views&color=0e75b6&style=flat" alt="pratik476" /> </p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik476" alt="pratik476" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik476&label=Profile%20views&color=0e75b6&style=flat" alt="pratik476" /> </p>
 
 - 🌱 I’m currently learning **react,java,springboot**
 
+- 💬 Ask me about **java**
+
 - 📫 How to reach me **pratikdhumal84@gmail.com**
+
+- ⚡ Fun fact **I Am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik476&show_icons=true&locale=en&layout=compact" alt="pratik476" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik476&show_icons=true&locale=en" alt="pratik476" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik476&" alt="pratik476" /></p>
