@@ -1,3 +1,4 @@
+![logo](https://www.canva.com/photos/MAGZJ-GxV-o-cozy-coding-workspace-with-ambient-lighting/)
 <h1 align="center">Hi 👋, I'm Pratik Dhumal</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
